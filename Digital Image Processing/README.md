@@ -10,7 +10,7 @@ The Indian cinema censor board demands to blur alcohol bottles in movies but it 
 
 Team Members: <br>
 
-[B Gokulapriyan](https://github.com/Gokulapriyan-B/Machine-Learning)
+[C Siddarth](https://github.com/siddarth-c)
 <br>
 D Balajee
 <br>
